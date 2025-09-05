@@ -16,6 +16,9 @@
  - Vecteezy ( PNG, 3D Models, Images, Vectors ) 
    https://www.vecteezy.com/png/24785816-3d-male-character-happy-working-on-a-laptop
 
+### clip path :
+ - https://corner-inverter.douiri.org/#
+
 ### RN
 RN vector icons - https://oblador.github.io/react-native-vector-icons/
 Vanilla CSS to RN Styles - https://csstox.surge.sh/?ref=madewithreactjs.com  
