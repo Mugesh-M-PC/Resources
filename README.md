@@ -1,5 +1,9 @@
 # Resources
 
+### SVS
+- Convert image to svg
+  https://www.svgai.org/convert/image-to-svg
+
 ### Icons :
  - Iconify :
    https://iconify.design/
