@@ -26,6 +26,9 @@
 ### clip path :
  - https://corner-inverter.douiri.org/#
 
+### Carousel libraries
+ - https://www.blossom-carousel.com/
+
 ### RN
 - RN vector icons - https://oblador.github.io/react-native-vector-icons
 
